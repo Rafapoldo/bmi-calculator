@@ -1,6 +1,6 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-#  BMI Calculator
+#  BMI Calculator from Angela Yu
 
 ## Our Goal
 
